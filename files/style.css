@@ -1,0 +1,134 @@
+body {
+  width: 900px;
+  margin: 20px auto 0px;
+  font-family: "Roboto", sans-serif;
+  font-size: 16px;
+  font-weight: 300;
+}
+.download-link {
+  font-size: 24px;
+}
+.img-logo {
+  height: 100px;
+}
+.img-sponsor {
+  height: 50px;
+}
+.section {
+  padding-top: 10px;
+  padding-bottom: 20px;
+}
+.highlight {
+  background-color: #f7f6f1;
+}
+.text-red {
+  color: rgb(173, 36, 36);
+  font-weight: bold;
+}
+.text-blue {
+  color: rgb(41, 74, 214);
+  font-weight: bold;
+}
+.text-green {
+  color: rgb(28, 105, 20);
+  font-weight: bold;
+}
+.text-purple {
+  color: rgb(128, 38, 192);
+  font-weight: bold;
+}
+.text-orange {
+  color: rgb(255, 146, 51);
+  font-weight: bold;
+}
+.text-brown {
+  color: rgb(128, 37, 26);
+  font-weight: bold;
+}
+.text-cyan {
+  color: rgb(41, 208, 208);
+  font-weight: bold;
+}
+.text-brown {
+  color: rgb(129, 74, 25);
+  font-weight: bold;
+}
+.text-gray {
+  color: rgb(87, 87, 87);
+  font-weight: bold;
+}
+.text-yellow {
+  color: rgb(153, 153, 0);
+  font-weight: bold;
+}
+
+p,
+ul,
+ol,
+table,
+pre,
+dl {
+  margin: 0 0 20px;
+}
+tr {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+td {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 16px;
+  padding-right: 16px;
+}
+th {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 16px;
+  padding-right: 16px;
+}
+table {
+  width: 930px;
+}
+table .time {
+  text-align: center;
+  min-width: 150px;
+}
+table .speaker {
+  text-align: center;
+  min-width: 300px;
+}
+table .title {
+  /* text-align:center; */
+  min-width: 450px;
+}
+table .highlight {
+  background: #f0f0f0;
+}
+table .organizer {
+  text-align: center;
+  min-width: 200px;
+}
+.text-justify {
+  text-align: left;
+}
+
+.faq-container {
+  max-width: 930px;
+  margin: 0 auto;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+}
+
+.faq-question {
+  background-color: #f0f0f0;
+  padding: 10px;
+  margin-bottom: 5px;
+  cursor: pointer;
+}
+
+.faq-answer {
+  display: none;
+  padding: 10px;
+  background-color: white;
+  margin-bottom: 10px;
+}
