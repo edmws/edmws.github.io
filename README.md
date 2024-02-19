@@ -1,1 +1,1 @@
-# Website for the Workshop on "Environment Dynamics Matters: Embodied Navigation to Movable Objects" at IROS 2024
+# Website for IROS 2024 Workshop "Environment Dynamics Matters: Embodied Navigation to Movable Objects"
